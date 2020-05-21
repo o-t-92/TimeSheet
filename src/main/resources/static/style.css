@@ -1,0 +1,15 @@
+.workday {
+    background-color: rgba(66, 255, 0, 0.1);
+}
+
+.weekend {
+    background-color: rgba(255, 0, 0, 0.1);
+}
+
+.holiday {
+    background-color: rgba(255, 0, 0, 0.1);
+}
+
+.pre-holiday {
+    background-color: rgba(205, 255, 0, 0.1);
+}
